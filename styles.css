@@ -48,7 +48,7 @@ body {
 .project-card {
     margin-bottom: calc(var(--spacing-unit) * 2);
     border: 1px solid var(--accent-color);
-    border-radius: 8px;
+    border-radius: 0px 0px .5rem .5rem;
     overflow: hidden;
     transition: transform 0.2s ease;
     position: relative;
@@ -268,4 +268,20 @@ html {
     height: auto;
     display: block;
     max-width: 100vw;
+}
+
+.exhibition-description {
+    max-width: 700px;
+    margin: 2rem auto 2.5rem auto;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+    background: none;
+    border-radius: 1.2rem;
+    box-shadow: none;
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: #fff;
+}
+
+.exhibition-description p + p {
+    margin-top: 1.1em;
 } 
