@@ -1,10 +1,8 @@
-// Utility function to generate short anchor ID from project name (first letter of each word)
+// Utility function to generate three-letter anchor ID from first letter of first three words
 function generateAnchorId(projectName) {
     if (!projectName) return '';
-    return projectName
-        .split(/\s+/)
-        .map(word => word[0] ? word[0].toLowerCase() : '')
-        .join('');
+    const words = projectName.trim().split(/\s+/);
+    return (words[0]?.[0] || '').toLowerCase() + (words[1]?.[0] || '').toLowerCase() + (words[2]?.[0] || '').toLowerCase();
 }
 
 // Helper to get theme class from theme name
@@ -160,6 +158,9 @@ async function loadProjects() {
             }
         }
 
+        // Check for duplicate IDs after loading projects
+        checkDuplicateIds(projects);
+
     } catch (error) {
         console.error('Error loading projects:', error);
         document.querySelector('.projects-container').innerHTML = `
@@ -171,4 +172,18 @@ async function loadProjects() {
 }
 
 // Initialize when DOM is loaded
-document.addEventListener('DOMContentLoaded', loadProjects); 
+document.addEventListener('DOMContentLoaded', loadProjects);
+
+// Check for duplicate IDs after loading projects
+function checkDuplicateIds(projects) {
+    const ids = projects.map(p => generateAnchorId(p.Project));
+    const seen = new Set();
+    const duplicates = new Set();
+    ids.forEach(id => {
+        if (seen.has(id)) duplicates.add(id);
+        seen.add(id);
+    });
+    if (duplicates.size > 0) {
+        console.warn('Duplicate project anchor IDs found:', Array.from(duplicates));
+    }
+} 
