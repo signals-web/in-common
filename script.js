@@ -1,9 +1,10 @@
-// Utility function to generate anchor ID from project name
+// Utility function to generate short anchor ID from project name (first letter of each word)
 function generateAnchorId(projectName) {
+    if (!projectName) return '';
     return projectName
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, '-')
-        .replace(/^-+|-+$/g, '');
+        .split(/\s+/)
+        .map(word => word[0] ? word[0].toLowerCase() : '')
+        .join('');
 }
 
 // Helper to get theme class from theme name
