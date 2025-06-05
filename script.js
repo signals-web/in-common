@@ -186,4 +186,23 @@ function checkDuplicateIds(projects) {
     if (duplicates.size > 0) {
         console.warn('Duplicate project anchor IDs found:', Array.from(duplicates));
     }
-} 
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  const cameraBtn = document.getElementById('camera-btn');
+  const cameraInput = document.getElementById('camera-input');
+  if (cameraBtn && cameraInput) {
+    cameraBtn.addEventListener('click', () => cameraInput.click());
+    cameraInput.addEventListener('change', (e) => {
+      // Handle the captured image here (e.g., preview, upload, etc.)
+      const file = e.target.files[0];
+      if (file) {
+        // Example: show a preview (optional, can be removed)
+        // const img = document.createElement('img');
+        // img.src = URL.createObjectURL(file);
+        // img.style.maxWidth = '100%';
+        // document.body.appendChild(img);
+      }
+    });
+  }
+}); 

@@ -269,4 +269,31 @@ html {
 
 .role-highlight {
     font-weight: 600;
+}
+
+#camera-btn {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  background: #001B45;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 56px;
+  height: 56px;
+  box-shadow: 0 4px 16px #001B4544;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+#camera-btn:hover, #camera-btn:focus {
+  background: #3FD6FF;
+  color: #001B45;
+}
+#camera-btn svg {
+  width: 32px;
+  height: 32px;
 } 
