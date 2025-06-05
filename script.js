@@ -134,7 +134,7 @@ function parseCSV(text) {
 // Main function to load and process CSV data
 async function loadProjects() {
     try {
-        const response = await fetch('CSV/BSA Labels.csv');
+        const response = await fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vSfvKADqXuoJRFVqI8DwnUuzlbsrmegvxEDHc8QNuyXzkDTqTdCMpiCq-7OKRIzOiAGWVtOmsK4nP_X/pub?output=csv');
         const csvText = await response.text();
         
         // Parse CSV
