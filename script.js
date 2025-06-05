@@ -22,7 +22,9 @@ function getThemeClass(theme) {
 // Helper to wrap bracketed text in a span for underlining, using parentheses
 function underlineBrackets(text) {
     if (!text) return '';
-    return text.replace(/\[([^\]]+)\]/g, '<span class="bracketed">($1)</span>');
+    let result = text.replace(/\[([^\]]+)\]/g, '<span class="bracketed">($1)</span>');
+    result = result.replace(/\(([^\)]+)\)/g, '<span class="role-highlight">$1</span>');
+    return result;
 }
 
 // Utility function to create project card HTML
@@ -54,39 +56,21 @@ function createProjectCard(project) {
         ${project.Description ? `<p class="project-description">${project.Description}</p>` : ''}
     `;
 
+    card.appendChild(header);
+
+    // Always show details below description
     const details = document.createElement('div');
-    details.className = 'project-details';
+    details.className = 'project-details expanded';
     details.innerHTML = `
         ${project.Date ? `<div class="project-detail-item">
             <span class="project-detail-label">Date:</span>
             <span>${project.Date}</span>
         </div>` : ''}
         ${project.Credits ? `<div class="project-detail-item">
-            <span class="project-detail-label">Photographer:</span>
             <span>${underlineBrackets(project.Credits)}</span>
         </div>` : ''}
     `;
-
-    card.appendChild(header);
     card.appendChild(details);
-
-    // Card footer for actions (no theme tag here)
-    const cardFooter = document.createElement('div');
-    cardFooter.className = 'project-card-footer';
-
-    // CREDITS button with + inside
-    const creditsButton = document.createElement('button');
-    creditsButton.className = 'credits-button';
-    creditsButton.innerHTML = `<span class="plus-circle">+</span><span class="credits-text">CREDITS</span>`;
-    cardFooter.appendChild(creditsButton);
-
-    card.appendChild(cardFooter);
-
-    // Add click handler for expandable details on credits button
-    creditsButton.addEventListener('click', (e) => {
-        e.stopPropagation();
-        details.classList.toggle('expanded');
-    });
 
     return card;
 }
