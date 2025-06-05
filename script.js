@@ -19,6 +19,12 @@ function getThemeClass(theme) {
     return '';
 }
 
+// Helper to wrap bracketed text in a span for underlining, using parentheses
+function underlineBrackets(text) {
+    if (!text) return '';
+    return text.replace(/\[([^\]]+)\]/g, '<span class="bracketed">($1)</span>');
+}
+
 // Utility function to create project card HTML
 function createProjectCard(project) {
     const anchorId = generateAnchorId(project.Project);
@@ -57,7 +63,7 @@ function createProjectCard(project) {
         </div>` : ''}
         ${project.Credits ? `<div class="project-detail-item">
             <span class="project-detail-label">Photographer:</span>
-            <span>${project.Credits}</span>
+            <span>${underlineBrackets(project.Credits)}</span>
         </div>` : ''}
     `;
 
@@ -71,7 +77,7 @@ function createProjectCard(project) {
     // CREDITS button with + inside
     const creditsButton = document.createElement('button');
     creditsButton.className = 'credits-button';
-    creditsButton.innerHTML = `</span><span class="credits-text">+CREDITS</span>`;
+    creditsButton.innerHTML = `<span class="plus-circle">+</span><span class="credits-text">CREDITS</span>`;
     cardFooter.appendChild(creditsButton);
 
     card.appendChild(cardFooter);

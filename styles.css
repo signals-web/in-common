@@ -284,4 +284,10 @@ html {
 
 .exhibition-description p + p {
     margin-top: 1.1em;
+}
+
+.bracketed {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+    text-decoration-thickness: 2px;
 } 

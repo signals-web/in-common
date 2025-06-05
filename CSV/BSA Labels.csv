@@ -1,52 +1,538 @@
 Project,Firm,Date,Description,Credits,Theme,
-Smith Campus Center,Bruner/Cott Architects,2018,The Richard A. & Susan F. Smith Campus Center at Harvard University is a radical re-appraisal of the existing ten story building on the site of the Holyoke Center designed by Josep Lluis Sert in the 1950's. A much-needed modernization and reorganization of uses brought formerly private office spaces into the public sphere and enhanced already public areas with a variety of collaborative and recreational spaces.,Nic Lehoux,Sites of Welcome,
-Fieldstone Student Housing,DiMella Shaffer,2024,"Fieldstone Student Housing, the new undergraduate and graduate housing complex at UMass Amherst, was created from a public-private partnership and addresses the growing demand for student housing while revitalizing a parking lot in an underutilized section of campus. With over 700 beds and 10,000 SF of activity and retail spaces, the complex fosters social connections through thoughtful design.",Robert Benson,Sites of Welcome,
-Boston Harbor Islands Pavilion,Utile,2011,"The Boston Harbor Islands Pavilion is an open-air gateway that connects city life to the natural richness of the Boston Harbor Islands. Two sculptural canopies provide shelter while framing views of the harbor, inviting visitors to pause and explore. A large-scale granite map and exhibit panels introduce the islands' history, ecology, and recreational offerings.",Chuck Choi,Sites of Welcome,
-St. Bonaventure Parish,LDa,2014,"The challenge for the St. Bonaventure Parish was to design a campus that would respect the ecclesiastical architectural history of the region, preserve the historical roots of the site and parish, and provide comfortable, functional spaces with modern amenities. The new church entry and narthex face the new community green, and the altar and chapel face into the landscape.",Greg Premru Photography,Sites of Welcome,
-Athenaeum Expansion,Annum Architects,2024,"The Boston Athenaeum, one of the oldest independent libraries in the United States, is located in a circa 1849 National Historic Landmark building on Beacon Hill. The renovation and expansion supports the Boston Athenaeum's renewed mission of inclusion and transparency, helping to broaden programming to better engage Boston's increasingly diverse population.",Anton Grassi Photography,Sites of Welcome,
-Isooko Community Center,General Architecture Collaborative,2021,"The Isooko Community Center, located in the remote hills outside Kigali, Rwanda, bridges physical and social divides by providing vital educational, recreational, and wellness resources to underserved residents. Designed as a community-driven initiative, the Center's development emphasized local involvement and sustainable methods from start to finish.",James Setzler,Sites of Belonging,
-Free To All,Architecture for Public Benefit,2022,"A Library Free to All enhances access to essential library services in nine underserved Boston communities through innovative, community-driven design. The project's flexible kit of parts includes canopies for shade, light, and mist, alongside modular, playful furniture that adapts to various functions—from performance stages to informal gathering spaces.",Randy Crandon,Sites of Belonging,
-The Record Co.,STA Design,2025,"The Record Co. is a nonprofit institution whose mission is 'to remove the technical and social barriers between Boston's music makers and their creative visions through truly affordable music workspace and professional development programs', with a strong focus on community and inclusivity.",Jenny Bergman,Sites of Belonging,
-The Pryde,DiMella Shaffer,2024,"The Pryde is an adaptive reuse project transforming the historic William Barton Rogers School in Boston's Hyde Park into 74 LGBTQ-affirming affordable housing units and a community center. It addresses a critical housing gap, offering a safe, dignified home for a marginalized community that has long faced discrimination.",Robert Benson,Sites of Belonging,
-J.J. Carroll House,MASS Design Group,2024,"The J.J. Carroll House is a model for high density housing that prioritizes resident connections and communal activities linked to aging well. The 142-unit affordable housing community for seniors seeks to address a need for more affordable senior housing through design strategies that help residents live better, longer.",MASS Design Group,Sites of Belonging,
-Split Switchback Housing,Primary Projects and RUKA Design,2025,"As 'single stair' housing begins to take hold in the US, how can we ensure occupant safety while building community? In Split Switchback Housing, the stair is a conventional switchback, but instead of stacking each floor's runs, they alternate across the landing in the direction of travel.",Primary Projects / RUKA Design,Sites of Belonging,
-The Baldwin,DiMella Shaffer,2024,"The Baldwin is a vibrant, walkable, mixed-use life-plan community nestled within a planned urban development. Its mission of 'Life at its Core' empowers residents to be the architects of their own well-being through freedom and choice, fostering engagement, inclusivity, and dignity.",Robert Benson,Sites of Belonging,
-Charles River Speedway,Bruner/Cott Architects,2021,The Charles River Speedway is a multi-building reuse project that combines historic preservation and forward-thinking sustainable design. It repositions a 19th century stable and parks department into a vibrant community asset and mixed-use destination in the Allston-Brighton neighborhood of Boston.,Christian Phillips,Sites of Belonging,
-ULTRA-LIGHT [select objects],Christian Borger / ULTRA-LITE STUDIO,2025,"The objects on view from Christian Borger's ULTRA-LIGHT series are a small representation of the project's investigation into items that we find commonality around - specifically the acts of cooking and eating. The dining table is seen as a place not just for the consumption of food, but as a space for conversation, communication, and even collaboration.",Christian Borger,Sites of Belonging,
-SkateGarden,Alice Marcus Krieg,2020,"NIMBYism persists in skatepark design—skaters are seen as deviant, their craft is seen as destructive and disruptive to public space, and liability concerns make skateparks a risky public investment. The design for SkateGarden explores how a garden might soften these perceptions, integrating nature to reduce the harsh cement footprint of a skatepark.",Alice Marcus Krieg,Sites of Belonging,
-Bodega Makeover,STA Design,2020,"The project is the renovation of an existing Bodega in Roxbury, Massachusetts for the Bodega Makeover program. Bodega Makeover is the vision of Evelyn Brito, whose mission it is to raise awareness, and help solve, food desert issue in lower income communities by renovating one bodega at a time.",STA Design,Sites of Healing,
-Urban Farm Teaching Pavilion,WIT Emerging Tech Studio '24,2025,"The Urban Farm Teaching Pavilion is a collaborative community design project developed between an advanced architecture research studio, a local urban farm, and community-building partners. The project is assembled of prefabricated CNC milled plywood components, designed to be effective and flexible with community events and urban garden operations.",Campbell Brod & Raymond Lapiejko,Sites of Healing,
-Masoro Health Center,General Architecture Collaborative,2018,"The Masoro Health Center in Rwanda shows how design can foster equity, sustainability, and community engagement. As a public campus offering healthcare, maternity services, and public gathering spaces, it welcomes all, regardless of social or financial status. Local residents—including women typically excluded from construction—were trained and involved from planning to post-occupancy.",Yutaka Sho,Sites of Healing,
-Hope for Life Kitchen,General Architecture Collaborative,2024,"The Hope For Life Boy's Center is a multi-phase campus designed to support vulnerable boys in Kigali through accessible, locally built spaces. The first completed phase, the Hope For Life Kitchen, involves local students, graduates, and community members in its design and construction, building skills and strengthening local ties.",Leighton Beaman,Sites of Healing,
-Comfort Kitchen,Supernormal,2023,"Comfort Kitchen transforms historic public infrastructure from a long-past era into a soft and open platform for contemplating immigrant stories and imagining a better future through the lens of food. The project is an adaptive re-use project that converts a long-abandoned but elegantly designed public comfort station, constructed in 1912.",Jane Messinger,Sites of Healing,
-Black Panther Commemorative Garden,Killion Mokwete [Social Impact Collective] & Parke MacDowell [PAYETTE],2023,"The Black Panther Commemorative Garden in the Roxbury neighborhood of Boston, occupies the site of what was once an information center for the local chapter of the Black Panther Party. A grassroots initiative advocated for the recognition of the community's history of social-justice activism as part of this shared outdoor space.",PAYETTE/Parke MacDowell,Sites of Healing,
-Counter-Memorial for Victims of Police Brutality,Calvin Boyd-Morlani,2025,"Presented in the exhibition is a model for an unbuilt concept for the Counter-Memorial for Victims of Police Brutality. The project proposes that lacerations be made into approximately 18,000 police precincts across America every time a fatal instance of police brutality occurs.",SIGNALS,Sites of Healing,
-Museum of Trees,Chetan Kulkarni,2018,"Veermata Jijabai Bhosale Udyan (erstwhile Victoria Garden), popularly Rani Baug, is a complex of a botanical Garden, zoo and museum in south Mumbai, developed under British colonial rule in the 19th century. Museum of Trees in its phrasing offered a lens to see this colonial 'collection' of trees as ecological wealth that is as archaeologically timeless as the artefacts in the museum.",Samira Rathod Design Atelier / Chetan Kulkarni,Sites of Healing,
-Global Center for Cleantech Innovation,STA Design,2018,"Greentown Labs is the largest cleantech incubator in the US, and their space includes office space and prototyping space for over 90 companies. This project is a 55,000 Global Center for Cleantech Innovation. In addition to expanding Greentown's reach to many more startup companies, the goal of the new space was to reach out to the external community.",L. Barry Hetherington,Sites of Learning,
-Land's Sake Farmstand,PAYETTE,2024,"Land's Sake is a non-profit community farm preserving rural farming heritage and fostering connections between people, food and the land. The Farmstand and Animal Barn are models for sustainable construction, demonstrating how buildings can be functional, beautiful and environmentally conscious; showcasing a blend of traditional and cutting-edge techniques.",Warren Jagger Photography,Sites of Learning,
-Josiah Quincy Upper School,HMFH Architects,2024,"Sited at the threshold of Boston's Chinatown neighborhood, the new LEED Platinum-certified Josiah Quincy Upper School is a dynamic, high-rise school on a less than one-acre site. Located across from the TAC-designed Quincy Elementary School, the new Upper School creates a cohesive academic experience and is a showcase for equitable, community-focused, sustainable design.",Ed Wonsek ArtWorks Inc.,Sites of Learning,
-Arlington High School,HMFH Architects,2024,"Through an inclusive engagement process, Arlington High School was conceived as a welcoming public school that fosters connections. It supports meaningful interactions between students, strengthens connections with the Arlington community, and creates connections to the natural environment.",Ed Wonsek ArtWorks Inc.,Sites of Learning,
-PJM STEM+ Center at Eagle Hill School,ARC/ Architectural Resources Cambridge,2019,Eagle Hill School educates students identified with learning (dis)abilities by providing an intimate and encouraging community that honors the individual and values learning diversity. The design team engaged in intensive research and planning to develop a conceptual framework for a building where the STEM program and pedagogy could be expressed spatially.,Jeff Goldberg,Sites of Learning,
-Northeastern (ISEC),Payette,2024,"Northeastern University Interdisiplinary Science and Engineering Complex (ISEC) utilizes a cutting-edge building science approach to give form to one of the most sustainable research buildings in the world. A dramatic atrium in between creates a vibrant community for the sciences, the campus and the community.",Robert Benson,Sites of Learning,
-New Lots Library,MASS Design Group,2025,"MASS has partnered with the Brooklyn Public Library and Marble Fairbanks Architects to respond to a rare and critical opportunity to revitalize the New Lots Branch Library, a building discovered to have been built on a historic African burial ground in what is now known as Brooklyn.",MASS Design Group,Sites of Learning,
-Boston Public Library,William Rawn Associates,2016,"Collaborating with the City of Boston and the Boston Public Library, WRA transformed the Boylston Street Building (formerly Johnson Building) from an inward focused, solid 'bunker' to an outward facing, transparent and welcoming hub for engagement and learning, re-energizing the Library's longstanding mission of 'Free To All.'",Bruce Martin,Sites of Learning,
-Cambridge Public Library,William Rawn Associates and Ann Beha Architects,2009,The 2009 re-envisioning of the Cambridge Public Library included a new building standing shoulder-to-shoulder with the renovated 1889 Historic Main Library and a newly landscaped City Park. Significant renovations renewed the Main Library's importance to the community.,Bruce Martin,Sites of Learning,
-Ragon Institute,PAYETTE,2024,"The Ragon Institute of Mass General, MIT and Harvard unites researchers at the forefront of eradicating infectious diseases. The new 323,000 GSF home occupies a free-standing triangular site on Main Street in Cambridge, MA between Kendall Square, MIT and the Port neighborhood.",Robert Benson,Sites of Learning,
-Shelburne Museum Perry Center,Annum Architects with Two Row Architect,2024,"Incorporated in 1947, Shelburne Museum is the largest art and history museum in northern New England and Vermont's foremost public resource for programming in the arts and humanities. The Perry Center for Native American Art will be the newest addition to the 45-acre, 39-building campus.",Annum Architects & Two Row Architect & Reed Hilderbrand,Sites of Culture,
-"IBA ""La CASA"" Cultural Center",STUDIO ENÉE with Annum Architects,2025,"The Center for the Arts, Self-Determination, and Activism (The CASA) is the new home for Inquilinos Boricuas en Acción (IBA). The building will host a variety of crucial cultural and community programs across 26,400sf of space, featuring classrooms, galleries, offices, a planted terrace, and a double-height, 235-seat multi-purpose room.",Studio ENÉE,Sites of Culture,
-Allen Court,OPRCH,2025,"Raiding the City of Worcester's surplus of decommissioned street lights, Allen Court reimagines these traditional lighting components reconfigured as series of wild plant-like creatures. Like a loose collection of unruly seedlings, the lights emerge from the pavement, stretch across the alley, and leaning out to the street.",Office of Penn Ruderman Architects,Sites of Culture,
-Peddie School Art Center Expansion,ARC/ Architectural Resources Cambridge,2022,"The Peddie School, an independent high school in New Jersey, dreamed of a new performance venue and teaching spaces to celebrate its arts department. The Arts Center Expansion connects to an existing building and encompasses a luminous and acoustically nimble orchestra Room, music practice rooms, a lobby-event space, an airy art studio, and a flexible gallery.",Magda Beirnat,Sites of Culture,
-Lumen - Beacon Park,Touloukian Touloukian,2017,"Situated along Grand River Avenue, the Lumen restaurant at Beacon Park welcomes visitors into the center of downtown Detroit. This urban revitalization project and new public space was created to anchor the emerging neighborhood, spur economic development and provide a quality place for the community in the surging and vibrant downtown district.",Anton Grassi Photography,Sites of Culture,
-MASS MoCA Building 6,Bruner/Cott Architects,2017,"MASS MoCA's Building 6 is a new museum made from found buildings where the spectacular interiors of existing mill structures become a three-dimensional underpainting for new, impactful contemporary art galleries. Design interventions weave in and out of over one thousand columns, hundreds of windows, and acres of maple factory floor.",Michael Moran,Sites of Culture,
-Kendall/MIT Gateway,NADAAA with Perkins&Will,2023,"The Kendall/MIT Gateway project created an opportunity for MIT to redefine and reconstruct its eastern entry to campus, while at the same time allowing the MBTA to replace an aging subway headhouse and renovate the concourse below. To maintain the porosity of the urban site, a single civic canopy supported by very thin columns was imagined.",John Horner,Sites of Culture,
-ICA/Boston Watershed,AW–ARCH,2024,"The ICA/Boston Watershed is a seasonal contemporary art space in a repurposed industrial building in East Boston. Once a copper pipe factory, the 15,000-square-foot structure now offers free admission, dynamic exhibitions, and space for community programs. It expands the museum's reach to new audiences, especially East Boston's migrant-heavy population.",[Not visible],Sites of Culture,
-Berklee College of Music,William Rawn Associates,2013,"Fronting on Massachusetts Avenue, this multi-use 370-bed residence hall for Berklee College of Music strengthens the College's multiple connections to the City of Boston. The transparent facade reveals the life of the building while creating an active urban street edge.",Robert Campbell,Sites of Culture,
-Brooklyn Boulders Somerville,Arrowstreet,2013,"Brooklyn Boulders Somerville envisioned a multifunctional space where fitness, cross-training, yoga, co-working, and large-scale community events like TEDx co-exist. Once an unused warehouse in Somerville's industrial district, this space was thoughtfully reimagined into one of the largest indoor climbing facilities in the Northeast.",Ed Wonsek ArtWorks Inc.,Sites of Play,
-Urban Grove,Arrowstreet,2024,"Urban Grove provides Boston Seaport destination 'The Lawn on D' with an inviting sanctuary, seamlessly blending art, nature, and social connection. Designed to foster interaction, the installation features Canopy Trees, whose mirrored leaves reflect movement and illuminate at night, and Nests, circular seating that provides flexible gathering spaces.",Ed Wonsek ArtWorks Inc.,Sites of Play,
-Dancing Dragon,Katherine Chin & Parke MacDowell,2024,"Highway construction in the 1960s dismantled a tight-knit community by displacing hundreds of immigrant households along Hudson Street in Boston's Chinatown. Dancing Dragon occupies the small greenspace between these projects to reinforce the cultural identity of Chinatown. Inspired by the spirit of a traditional dragon dance, the undulating canopy resembles the energetic movements of a dragon.",PAYETTE/Lee-Daniel Tran,Sites of Play,
-Loose Fit,CO-G,2020,"Somewhere between New England cedar shingles and the loose fit of a favorite pair of jeans, the pavilion speaks to the familiarity and nostalgia of our collective favorite things. 80 puffy shingles are stuffed with recycled denim repurposed to building insulation and fabric waste from the garment industry.",Sam Balukonis,Sites of Play,
-Parklet,Wentworth Architecture,2024,"The 'Parklet' AKA Place Activators: DfMA systems for promoting wellness, learning and play for the public good explores design as a tool for spatial activation, focusing on how small-scale, community-driven interventions can transform underutilized urban spaces.",Jack Cahill,Sites of Play,
-Take a Seat,Architecture for Public Benefit,2025,"Take a Seat offers a welcoming space for BSA visitors to gather, pause, and belong. It encourages lingering, conversation, and informal exchange. Architecture for Public Benefit's modular blue furniture is arranged along a rotated grid, filling both the nook and the adjacent floor area.",SIGNALS,Sites of Play,
-Dinner Cozy,French 2D,2022,"At the smallest domestic scale, Dinner Cozy makes visible the social and physical negotiations of spatial practice via the dinner table. The many-armed tablecloth plays host to up to 28 guests and insists on an acknowledgement of its presence, while enveloping chairs and providing warmth.",French 2D,Sites of Play,
-SUPA System,Joseph Zeal-Henry with Deborah Garcia,2025,"SUPA System asks what music and sound can tell us about how we occupy spaces of power, and aims to inspire new ways of thinking about communal spaces of gathering. A manifesto made physical, SUPA System cites far ranging influences to imagine how the vernacular of infrastructure could create new ways of living.",SIGNALS,Sites of Play,
-Boston City Hall Plaza,Sasaki,2024,Boston City Hall Plaza renovation project by Sasaki transforming the civic space into a more welcoming and accessible public gathering place.,SIGNALS,Sites of Play,
+Smith Campus Center,Bruner/Cott Architects,2018,The Richard A. & Susan F. Smith Campus Center at Harvard University is a radical re-appraisal of the existing ten story building on the site of the Holyoke Center designed by Josep Lluis Sert in the 1950's. A much-needed modernization and reorganization of uses brought formerly private office spaces into the public sphere and enhanced already public areas with a variety of collaborative and recreational spaces.,"(Arch of Record) Bruner/Cott Architects;
+(Design Architect) Hopkins Architects;
+(Contractor) Consigli;
+(Primary Engineer) Arup;
+(Civil Engineer) WSP;
+(Cost Consultant) Faithful + Gould;
+(Façade Consultant) Simpson Gumpertz & Heger (SGH);
+(Food Service) Colburn Guyette;
+(Healthcare) Steffian Bradley Architects;
+(Landscape) Michael Van Valkenberg Associates;
+(Specifications) Kalin Associates;
+(Traffic) Perry and Radford Architects;
+(Elevator) Zipf;
+(Geotechnical) Haley & Aldrich;
+(Design Assist) Roschman Steel & Glass Construction;
+(Wind) Rowan Williams Davies & Irwin;
+Photo © Nic Lehoux
+",Sites of Welcome,
+Fieldstone Student Housing,DiMella Shaffer,2024,"Fieldstone Student Housing, the new undergraduate and graduate housing complex at UMass Amherst, was created from a public-private partnership and addresses the growing demand for student housing while revitalizing a parking lot in an underutilized section of campus. With over 700 beds and 10,000 SF of activity and retail spaces, the complex fosters social connections through thoughtful design.","(Architect) DiMella Shaffer
+(Contractor) Suffolk Construction Company; 
+(Developer) Balfour Beatty Campus Solutions;
+(Engineer) Civil: Nitsch Engineering;
+(Engineer) MEP: RFS;
+(Engineer) Structural: RSE Associates;
+(Landscape Architect) Crowley Cotrell;
+(Acoustics) Acentech;
+(Code) Jensen Hughes;
+(Accessibility) KMA;
+(Envelope) BET Building Envelope Technologies;
+(Geotechnical) GZA;
+(Interiors) Levy Dykema;
+(Specifications) Collective Wisdom;
+(Food Service) Colburn Guyette;
+(Lighting) Collaborative Lighting
+Photo © Robert Benson
+",Sites of Welcome,
+Boston Harbor Islands Pavilion,Utile,2011,"The Boston Harbor Islands Pavilion is an open-air gateway that connects city life to the natural richness of the Boston Harbor Islands. Two sculptural canopies provide shelter while framing views of the harbor, inviting visitors to pause and explore. A large-scale granite map and exhibit panels introduce the islands' history, ecology, and recreational offerings.","(Architect) Utile
+(Client) Boston Harbor Island Alliance
+(Client) National Park Service (NPS)
+(Landscape Architecture) Reed Hilderbrand Associates
+(Structural Engineering) SGH Engineers
+(Construction) Turner Special Projects
+Photo © Chuck Choi
+",Sites of Welcome,
+St. Bonaventure Parish,LDa,2014,"The challenge for the St. Bonaventure Parish was to design a campus that would respect the ecclesiastical architectural history of the region, preserve the historical roots of the site and parish, and provide comfortable, functional spaces with modern amenities. The new church entry and narthex face the new community green, and the altar and chapel face into the landscape.","(Architect) LDa Architecture & Interiors
+(Builder) A.P. Whitaker and Sons, Inc.
+(Liturgical Consultant) G. Thomas Ryan
+(Videographer) Hawk Visuals
+Photo © Greg Premru Photography",Sites of Welcome,
+Athenaeum Expansion,Annum Architects,2024,"The Boston Athenaeum, one of the oldest independent libraries in the United States, is located in a circa 1849 National Historic Landmark building on Beacon Hill. The renovation and expansion supports the Boston Athenaeum's renewed mission of inclusion and transparency, helping to broaden programming to better engage Boston's increasingly diverse population.","(Architect) Annum Architects
+(Structural Engineer) Thornton Tomasetti, (Han Xu)
+(MEP/FP Engineer) Allied Consulting Engineering Services, (Amish Patel)
+(Landscape Architect) Richard Burck, (Skip Burck)
+(Lighting Design) Available Light, (Matt Zelkowitz)
+(Acoustics) ACENTECH, (Jonah Sacks)
+(Code Consultant) Solutions Engineering< (Michael DiMascio)
+(Specifications Writer) Kalin Associates, Mark Kalin
+(Cost Estimator) Fennessy Consulting Services, (Seamus Fennessy)
+Photo © Anton Grassi
+",Sites of Welcome,
+Isooko Community Center,General Architecture Collaborative,2021,"The Isooko Community Center, located in the remote hills outside Kigali, Rwanda, bridges physical and social divides by providing vital educational, recreational, and wellness resources to underserved residents. Designed as a community-driven initiative, the Center's development emphasized local involvement and sustainable methods from start to finish.","James SetzCo-founder, Principal: Architect of Record, General Architecture Collaborative, James Setzler
+Co-founder, Principal: General Architecture Collaborative,Yutaka Sho
+Co-founder, Principal: General Architecture Collaborative, Leighton Beaman
+Architecture Associate: General Architecture Collaborative, Patrice Ndababonye
+Architecture Associate: General Architecture Collaborative, Nicolas Kalimba Rugamba
+Architecture Associate: General Architecture Collaborative, Marie Claire Musengayire
+Architecture Associate: General Architecture Collaborative,Cynthia Twagirayezu
+Architecture Associate: General Architecture Collaborative, Marie Rose Ukwizabigira
+Intern: General Architecture Collaborative, Iris Gomm
+Intern: General Architecture Collaborative, Mia Shepard
+Consultants & NGOs:
+Kate Spade NY On Purpose
+TEACH Rwanda
+Shooting Touch
+Africa Yoga Project
+Mindleaps
+KTG Strategies
+Construction:
+General Contractor: General Architecture Collaborative
+Masonry Technology & Training: Skat Consulting
+Structural Engineer: Junho Chun
+Photo © James Setzler
+ler",Sites of Belonging,
+Free To All,Architecture for Public Benefit,2022,"A Library Free to All enhances access to essential library services in nine underserved Boston communities through innovative, community-driven design. The project's flexible kit of parts includes canopies for shade, light, and mist, alongside modular, playful furniture that adapts to various functions—from performance stages to informal gathering spaces.","(Architect) Architecture for Public Benefit
+(Community Engagement Partner) Design4Equity
+(Construction Partner) YouthBuild Boston
+Photo © Randy Crandon
+",Sites of Belonging,
+The Record Co.,STA Design,2025,"The Record Co. is a nonprofit institution whose mission is 'to remove the technical and social barriers between Boston's music makers and their creative visions through truly affordable music workspace and professional development programs', with a strong focus on community and inclusivity.","(Architect) STA Design
+(General Contractor) Citywide Contracting, Peter Walsh
+(MEPFP Engineers) AHA Engineers, Jon Splaine, PE
+(Acoustics) Sonic Space, Lou Clark
+(Custom AV Racks/ Sound Walls) Soundwall Construction, Eric Pearce 
+(Audio) Audire Design, Rob Pemberton
+Photo © Jenny Bergman
+",Sites of Belonging,
+The Pryde,DiMella Shaffer,2024,"The Pryde is an adaptive reuse project transforming the historic William Barton Rogers School in Boston's Hyde Park into 74 LGBTQ-affirming affordable housing units and a community center. It addresses a critical housing gap, offering a safe, dignified home for a marginalized community that has long faced discrimination.","(Architect) DiMella Shaffer
+(Engineer) Civil: Nitsch Engineering;
+(Engineer) MEP: R.W. Sullivan;
+(Engineer) Structural: L.A. Fuess;
+(Contractor) NEI General Contracting;
+(Landscape Architect) MikYoung Kim;
+(Historic Preservation) PAL/ Public Archaeology Laboratory;
+(Geotechnical Engineer) Terracon;
+(Environmental) Hillman Environmental;
+(Sustainability) Thornton Tomassetti;
+(Code) WSP;
+(Lighting) SK & Associates Lighting Consultants;
+(Envelope) BSC Building Science Corporation
+Photo © Robert Benson
+",Sites of Belonging,
+J.J. Carroll House,MASS Design Group,2024,"The J.J. Carroll House is a model for high density housing that prioritizes resident connections and communal activities linked to aging well. The 142-unit affordable housing community for seniors seeks to address a need for more affordable senior housing through design strategies that help residents live better, longer.","(Architect) MASS Design Group
+(Lead Principals) Jonathan Evans, Patricia Gruits
+(Project Manager) Ian Kenney 
+(Design Team) Johanny Bonilla, Emma Colley, Emily Ebersol, Ana Fernandez, Francisco Colom, John Maher, Ashley Marsh, Sarah Payton, Rinika Prince, Dave Saladik, Chris Scovel, Damario Walker-Brown, Annie Wang 
+(Client & Site Owner) 2Life Communities
+(MEP) Petersen Engineering
+(Civil + Landscape) Stantec
+(Structural Engineering) RSE Associates
+(Envelope) RJ Kenney
+(Sustainability) New Ecology
+(Code) Howe Engineers
+(Accessibility) KMA
+(Specifications) Kalin Associates
+(Photovoltaic) Solar Design Associates
+(Acoustics) Intertek
+Photo © MASS Design Group
+",Sites of Belonging,
+Split Switchback Housing,Primary Projects and RUKA Design,2025,"As 'single stair' housing begins to take hold in the US, how can we ensure occupant safety while building community? In Split Switchback Housing, the stair is a conventional switchback, but instead of stacking each floor's runs, they alternate across the landing in the direction of travel.","Primary Projects, Kyle Barker
+RUKA Design, Mark Rukamathu
+Image © Primary Projects / RUKA Design
+",Sites of Belonging,
+The Baldwin,DiMella Shaffer,2024,"The Baldwin is a vibrant, walkable, mixed-use life-plan community nestled within a planned urban development. Its mission of 'Life at its Core' empowers residents to be the architects of their own well-being through freedom and choice, fostering engagement, inclusivity, and dignity.","(Architect) DiMella Shaffer
+(Engineer) Civil: SMRT;
+(Engineer) MEP/FP: AKF;
+(Engineer Structural) L.A. Fuess Partners;
+(General Contractor) Harvey Construction;
+(Landscape Architect) Crowley Cottrell;
+(OPM) Trident Group;
+(Lighting) HLB;
+(Acoustics) Acentech;
+(AV) AKF;
+(Code) AKF;
+(Envelope) Building Envelope Technologies;
+(Food) Colburne Guyette; Crabtree McGrath Associates;
+(Specifications) Putnam Associates Specifiers;
+(Pool) RMD Collaborative;
+(Telecommunications/Data Engineering) AKF
+Photo © Robert Benson
+",Sites of Belonging,
+Charles River Speedway,Bruner/Cott Architects,2021,The Charles River Speedway is a multi-building reuse project that combines historic preservation and forward-thinking sustainable design. It repositions a 19th century stable and parks department into a vibrant community asset and mixed-use destination in the Allston-Brighton neighborhood of Boston.,"(Architect) Bruner/Cott Architects
+(General Contractor) D.F. Pray General Contractors;
+(MEP/FP Engineer)	BLW Engineers;
+(Structural Engineer) Silman;
+(Civil Engineer) Nitsch Engineering
+(Landscape Architect) Klopfer Martin Design Group
+(Historic Preservation) MacRostie Historic Advisors
+(Code Consultant) R.W. Sullivan
+(Lighting Design) Lewis Lighting
+(Acoustics) Boston Light and Sound
+(Geotechnical Engineer)	GEI
+(Specifications) Kalin Associates
+(Graphics/Signage/Retail) Graffito SP
+Photo © Christian Phillips
+",Sites of Belonging,
+ULTRA-LIGHT [select objects],Christian Borger / ULTRA-LITE STUDIO,2025,"The objects on view from Christian Borger's ULTRA-LIGHT series are a small representation of the project's investigation into items that we find commonality around - specifically the acts of cooking and eating. The dining table is seen as a place not just for the consumption of food, but as a space for conversation, communication, and even collaboration.","Designer: Christian Borger / ULTRA-LITE STUDIO
+Photo © Christian Borger
+",Sites of Belonging,
+SkateGarden,Alice Marcus Krieg,2020,"NIMBYism persists in skatepark design—skaters are seen as deviant, their craft is seen as destructive and disruptive to public space, and liability concerns make skateparks a risky public investment. The design for SkateGarden explores how a garden might soften these perceptions, integrating nature to reduce the harsh cement footprint of a skatepark.","(Designer) Alice Marcus Krieg
+(Placemaker, Urban Planner) Alice Marcus Krieg; 
+(Executive Director) Pablo Ramirez Foundation/Brooklyn SkateGarden Loren Michelle;
+(Project Manager) The SkatePark Project (Tony Hawk Foundation), Alec Beck
+Image © Alice Marcus Krieg
+",Sites of Belonging,
+Bodega Makeover,STA Design,2020,"The project is the renovation of an existing Bodega in Roxbury, Massachusetts for the Bodega Makeover program. Bodega Makeover is the vision of Evelyn Brito, whose mission it is to raise awareness, and help solve, food desert issue in lower income communities by renovating one bodega at a time.","(Architect) STA Design
+Photo © STA Design
+",Sites of Healing,
+Urban Farm Teaching Pavilion,WIT Emerging Tech Studio '24,2025,"The Urban Farm Teaching Pavilion is a collaborative community design project developed between an advanced architecture research studio, a local urban farm, and community-building partners. The project is assembled of prefabricated CNC milled plywood components, designed to be effective and flexible with community events and urban garden operations.","(Architect) Wentworth Emerging Technologies Research Studio ‘24: 
+Campbell Brod; Haley Dando; Raymond Lapiejko; Julia Carletti; Kashka Senat; Cesar Dasilvia; Gio Loiacono; Adriana El Hosri; Eliza Call; Sierra Torres; Thomas Wordon; Aidan Morris; Brian Cook
+(Instructor) Robert Trumbour; 
+(Fabrication Design Consultant + Instructor) Matt Arsenault;
+(Community Partners) Haley House; Disha; Alexander Bezek
+(Community Partners + Builders) YouthBuild Boston Neil Daniel; Jeremy Donovan; Nathan Polk; Duncan Coakley;
+(Structural Engineer) Armando Plata
+Image © Campbell Brod, Raymond Lapiejko 
+",Sites of Healing,
+Masoro Health Center,General Architecture Collaborative,2018,"The Masoro Health Center in Rwanda shows how design can foster equity, sustainability, and community engagement. As a public campus offering healthcare, maternity services, and public gathering spaces, it welcomes all, regardless of social or financial status. Local residents—including women typically excluded from construction—were trained and involved from planning to post-occupancy.","Architect: General Architecture Collaborative
+Project Team: 
+Co-founder, Principal: Architect of Record, General Architecture Collaborative, James Setzler
+Co-founder, Principal: General Architecture Collaborative,Yutaka Sho
+Co-founder, Principal: General Architecture Collaborative, Leighton Beaman
+Architecture Associate: General Architecture Collaborative, Patrice Ndababonye
+Architecture Associate: General Architecture Collaborative, Nicolas Kalimba Rugamba
+Architecture Associate: General Architecture Collaborative, Marie Claire Musengayire
+Architecture Associate: General Architecture Collaborative,Cynthia Twagirayezu
+Architecture Associate: General Architecture Collaborative, Marie Rose Ukwizabigira
+Intern: General Architecture Collaborative, Iris Gomm
+Intern: General Architecture Collaborative, Mia Shepard
+Construction:
+General Architecture Collaborative
+Structure Stone
+Consultants & NGOs:
+Kate Spade NY On Purpose
+Health Builders
+Gardens for Health International
+Great Lakes Energy
+Photo © Yutaka Sho
+",Sites of Healing,
+Hope for Life Kitchen,General Architecture Collaborative,2024,"The Hope For Life Boy's Center is a multi-phase campus designed to support vulnerable boys in Kigali through accessible, locally built spaces. The first completed phase, the Hope For Life Kitchen, involves local students, graduates, and community members in its design and construction, building skills and strengthening local ties.","Architect: General Architecture Collaborative
+Project Team: 
+Co-founder / Principal / Architect of Record, General Architecture Collaborative, James Setzler 
+Co-founder / Principal / Architect of Record, General Architecture Collaborative, Yutaka Sho 
+Co-founder / Principal / Architect of Record, General Architecture Collaborative, Leighton Beaman
+Architecture Associate, General Architecture Collaborative, Patrice Ndababonye
+Architecture Associate,General Architecture Collaborative, Nicolas Kalimba Rugamba 
+Architecture Associate,General Architecture Collaborative, Marie Claire Musengayire 
+Architecture Associate,General Architecture Collaborative, Eric Mutabazi Kayijuka 
+Intern, General Architecture Collaborative, Patrick Namude
+Intern, General Architecture Collaborative, Issa Hakizimana
+Photo © Leighton Beaman
+",Sites of Healing,
+Comfort Kitchen,Supernormal,2023,"Comfort Kitchen transforms historic public infrastructure from a long-past era into a soft and open platform for contemplating immigrant stories and imagining a better future through the lens of food. The project is an adaptive re-use project that converts a long-abandoned but elegantly designed public comfort station, constructed in 1912.","(Architect) Supernormal
+Photo © Jane Messinger
+",Sites of Healing,
+Black Panther Commemorative Garden,Killion Mokwete [Social Impact Collective] & Parke MacDowell [PAYETTE],2023,"The Black Panther Commemorative Garden in the Roxbury neighborhood of Boston, occupies the site of what was once an information center for the local chapter of the Black Panther Party. A grassroots initiative advocated for the recognition of the community's history of social-justice activism as part of this shared outdoor space.","(Designer) Killion Mokwete [Social Impact Collective] & Parke MacDowell [PAYETTE]
+PAYETTE, Beyond Walls, Northeastern University – CAMD, Boston Celtics, City of Boston, Lorraine Wheeler, Denise Malis. 
+Many individual volunteers invested their time in community design meetings and work sessions. We’re thankful to them and past and present Winthrop Street residents for their contributions to the neighborhood.
+Photo © PAYETTE/Parke MacDowell
+",Sites of Healing,
+Counter-Memorial for Victims of Police Brutality,Calvin Boyd-Morlani,2025,"Presented in the exhibition is a model for an unbuilt concept for the Counter-Memorial for Victims of Police Brutality. The project proposes that lacerations be made into approximately 18,000 police precincts across America every time a fatal instance of police brutality occurs.","(Architect) Calvin Boyd-Morlani
+(Thesis Adviser) Jon Lott;
+Drawing and Rhetorical Support: Shaina Yang & Rachel Coulomb
+Special thanks to Parke MacDowell, Emily Chowdhury, Sophie Mckenzie, and Sandrine Heroux for fabrication assistance.
+Image © Calvin Boyd-Morlani
+",Sites of Healing,
+Museum of Trees,Chetan Kulkarni,2018,"Veermata Jijabai Bhosale Udyan (erstwhile Victoria Garden), popularly Rani Baug, is a complex of a botanical Garden, zoo and museum in south Mumbai, developed under British colonial rule in the 19th century. Museum of Trees in its phrasing offered a lens to see this colonial 'collection' of trees as ecological wealth that is as archaeologically timeless as the artefacts in the museum.","(Designer) Chetan Kulkarni
+Image (c) Samira Rathod Design Atelier / Chetan Kulkarni — from the publication ‘Museum of Trees’ (2018) under the aegis of SPADE India Research Cell
+",Sites of Healing,
+Global Center for Cleantech Innovation,STA Design,2018,"Greentown Labs is the largest cleantech incubator in the US, and their space includes office space and prototyping space for over 90 companies. This project is a 55,000 Global Center for Cleantech Innovation. In addition to expanding Greentown's reach to many more startup companies, the goal of the new space was to reach out to the external community.","(Architect) STA Design
+(Structural) CBI Consulting (now Socotec), Wayne Lawson, PE 
+(MEPFP) C3 Engineering (now Rimkus), Ken Wagner, PE
+(Civil Engineer) C1.0, Bill Doyle, PE 
+Photo © L. Barry Hetherington
+",Sites of Learning,
+Land's Sake Farmstand,PAYETTE,2024,"Land's Sake is a non-profit community farm preserving rural farming heritage and fostering connections between people, food and the land. The Farmstand and Animal Barn are models for sustainable construction, demonstrating how buildings can be functional, beautiful and environmentally conscious; showcasing a blend of traditional and cutting-edge techniques.","(Architect) PAYETTE
+(Construction Manager) Bowdoin Construction (Farmstand);
+(Construction Manager) Hybrid Construction (Animal Barn);
+(Engineer – Civil) VHB;
+(Engineer – MEP) BR+A;
+(Engineer – Structural) SGH;
+(Code) Howe Engineers;
+(Lighting) Borealis Lighting Studio
+Photo © Warren Jagger Photography
+",Sites of Learning,
+Josiah Quincy Upper School,HMFH Architects,2024,"Sited at the threshold of Boston's Chinatown neighborhood, the new LEED Platinum-certified Josiah Quincy Upper School is a dynamic, high-rise school on a less than one-acre site. Located across from the TAC-designed Quincy Elementary School, the new Upper School creates a cohesive academic experience and is a showcase for equitable, community-focused, sustainable design.","(Architect) HMFH Architects, (Pip Lewis);
+(Owner’s Project Manager) Skanska, (Jim Dowd);
+(Construction Manager) Turner Construction Company, (Jamie Meiser);
+(Structural Engineer) LeMessurier, (Bill Lovallo);
+(MEP/FP Engineer) GGD Consulting Engineers, (Dom Puniello);
+(Civil Engineer) Nitsch Engineering, (Joshua Soares);
+(Landscape Architect) Arcadis | IBI Group, (Catherine Offenberg);
+(Acoustical & Audio Visual Consultant) Cavanaugh Tocci Associates, (Lincoln Berry);
+(Code Consultant) Hastings, (Kevin Hastings);
+(Cost Estimator) PM&C, (Peter Bradley);
+(Elevator) Syska Hennessy Group, (Janet Moore);
+(Envelope Consultant) Thornton Tomasetti, (Melissa Wong);
+(Food Service Consultant) Crabtree McGrath Associates, (John Sousa);
+(Geotechnical & Geoenvironmental Engineer) McPhail Associates, (Jason Huestis);
+(Hardware Consultant) Arc-Spec Consulting, (Roy Willem);
+(Hazardous Materials Consultant) Universal Environmental Consultants, (Ammar Dieb);
+(Theater Consultant) Theatre Projects, (Michael Lindauer);
+(Traffic Engineer) BETA Group, (Kien Ho); 
+(Specifications Consultant) Kalin Associates, (Jay Ford);
+(Sustainability Consultant) Soden Sustainability Consulting, (Colleen Soden);
+Photo © Ed Wonsek ArtWorks Inc. 
+",Sites of Learning,
+Arlington High School,HMFH Architects,2024,"Through an inclusive engagement process, Arlington High School was conceived as a welcoming public school that fosters connections. It supports meaningful interactions between students, strengthens connections with the Arlington community, and creates connections to the natural environment.","(Architect) HMFH Architects, (Lori Cowles);
+(Owner’s Project Manager) Skanska, (Jim Burrows);
+(Construction Manager) Consigli Construction Company, (John LaMarre);
+(Structural Engineer) Foley Buhl & Roberts Associates, (Jon Buhl);
+(MEP/FP Engineer) BALA Consulting Engineers, (Ryan Flynn);
+(Civil Engineer) Samiotes Consultants, (Stephen Garvin);
+(Landscape Architect) Crosby, Schlessinger, Smallridge, (Deneen Crosby);
+(Educational Programmer) New Vista Design, (David Stephen);
+(Accessibility Consultant) KMA, (Josh Safdie);
+(Acoustical & Theater Consultant) Cavanaugh Tocci Associates, (Lincoln Berry);
+(Code Consultant) Hastings, (Kevin Hastings);
+(Cost Estimator) PM&C, (Peter Bradley);
+(FF&E Consultant) Point Line Space, (Peter Constable);
+(Food Service Consultant) ColburnGuyette, (Ed Arons);
+(Geotechnical & Geoenvironmental Engineer) McPhail Associates, (Jonathan Patch);
+(Hardware Consultant) Arc-Spec Consulting, (Roy Willem);
+(Hazardous Materials Consultant) Universal Environmental Consultants, (Ammar Dieb);
+(Irrigation Consultant) Irrigation Consulting, (Brian Vinchesi);
+(Lighting Consultant) Ripman Lighting Consultants, (Christopher Ripman);
+(Technology & Security Consultant) Vanderweil Engineers, (Tom Murphy);
+(Traffic Engineer) Bryant Associates, (Todd Brayton); 
+(Specifications Consultant) Kalin Associates, (Jay Ford);
+(Sports Field Consultant) JJA Sports, (John Amato);
+(Sustainability Consultant) Soden Sustainability Consulting, (Colleen Soden);
+(Sustainability Consultant) AKF Group, (Jeffrey Rios)
+Photo © Robert Benson
+",Sites of Learning,
+PJM STEM+ Center at Eagle Hill School,ARC/ Architectural Resources Cambridge,2019,Eagle Hill School educates students identified with learning (dis)abilities by providing an intimate and encouraging community that honors the individual and values learning diversity. The design team engaged in intensive research and planning to develop a conceptual framework for a building where the STEM program and pedagogy could be expressed spatially.,"(Architect) ARC/ Architectural Resources Cambridge
+(Code) Hastings Consulting, (Kevin Hastings); 
+(Envelope) Building Envelope Technologies, (Lance Robson); 
+(MEP/FP) R.W Sullivan, (Ralph Mulcahy); 
+(Landscape Architect) A.T. Leonard & Associates, (Andrew Leonard); 
+(Lighting) LAM Partners, (Glenn Heinmiller); 
+(Structure) Boston Building Consultants, (Daniel Platcow); 
+(Specifications) Steven McHugh, (Steven McHugh)
+Photo © Jeff Goldberg
+",Sites of Learning,
+Northeastern (ISEC),Payette,2024,"Northeastern University Interdisiplinary Science and Engineering Complex (ISEC) utilizes a cutting-edge building science approach to give form to one of the most sustainable research buildings in the world. A dramatic atrium in between creates a vibrant community for the sciences, the campus and the community.","(Architect) PAYETTE
+(Construction Manager) Suffolk Construction;	
+(Owner’s Project Manager) Leggat McCall Properties LLC;
+(Mechanical Engineer) Arup;
+(Electrical Engineer)	Arup;	
+(Plumbing Engineer)	Arup;	
+(Structural Engineer) LeMessurier;
+(Civil Engineer) Nitsch Engineering;
+(Code Consultant) Arup;
+(Cost Estimator) Vermeulens;
+(Interior Design) Payette and Analogue Studio;
+(Landscape Architect) Stephen Stimson Associates;		
+(Energy Model) Arup;
+(Sustainable Design/LEED Consultant) Soden Sustainability Consulting;
+(Lighting Designer) Arup;	
+(Environmental/Wind) Rowan Williams Davies;
+(Acoustical) Acentech;
+(Programmer) PAYETTE;
+(Programmer) Jacobs;
+(Elevator) Van Deusen & Associates;	
+(Food Service) Colburn & Guyette Consulting Partners;
+(Communications and Security) R.G. Vanderweil;	
+(Signage) Roll Barresi & Associates
+Photo © Robert Benson
+",Sites of Learning,
+New Lots Library,MASS Design Group,2025,"MASS has partnered with the Brooklyn Public Library and Marble Fairbanks Architects to respond to a rare and critical opportunity to revitalize the New Lots Branch Library, a building discovered to have been built on a historic African burial ground in what is now known as Brooklyn.","(Architect) MASS Design Group: Alan Ricks, Jonathan Evans, Chris Hardy, Kelvin Adjei-Akosah, Antonieta Bocxe, Jonathan Evans, Chris Hardy, Annie Kountz, Cristoforo Magliozzi, Ana Fernandez Martinez, Alan Ricks, Gabriel Hernandez Solano, Isabel Strauss, DaMario Walker-Brown
+(Co-Architect) Marble Fairbanks Architects
+(Structural) Silman
+(MEP | FP | Sustainability) Setty
+(Civil) AKRF
+(Lighting) Tillotson Design Assoc.
+(IT/AV | Security) Cosentini Associates
+(Acoustics) Longman Lindsey
+(Cost Estimating) Nasco Construction Services
+(Code Consulting | Expediting) Milrose Consultants
+(Specifications) Construction Specifications, Inc
+(Landscape) Elizabeth Kennedy Landscape Architect and Jordan Weber
+(Sustainability) Atelier 10Environmental
+(Graphics) WeShouldDoItAll
+(LEED Consulting) Code Green
+(Envelope) Front, Inc.
+(Bird Mitigation) Bird Control Advisory
+(Civil Engineering) AKRF
+Image © MASS Design Group
+",Sites of Learning,
+Boston Public Library,William Rawn Associates,2016,"Collaborating with the City of Boston and the Boston Public Library, WRA transformed the Boylston Street Building (formerly Johnson Building) from an inward focused, solid 'bunker' to an outward facing, transparent and welcoming hub for engagement and learning, re-energizing the Library's longstanding mission of 'Free To All.'","(Architect) William Rawn Associates
+(Structural Engineer) LeMessurier Consultants, Inc.
+(Mechanical / Electrical Engineer) Cosentini Associates, Inc.
+(Civil Engineer) Nitsch Engineering
+(Landscape Architect) Reed Hilderbrand
+(Interior Designer)  Lab [3.2] Architecture
+(Lighting Consultant) Lam Partners, Inc.
+(AV Consultant) Cavanaugh Tocci Associates, Inc.
+(Photographer) Robert Benson, Bruce Martin, WGBH Website + BPL Website
+Photo © Bruce Martin
+",Sites of Learning,
+Cambridge Public Library,William Rawn Associates and Ann Beha Architects,2009,The 2009 re-envisioning of the Cambridge Public Library included a new building standing shoulder-to-shoulder with the renovated 1889 Historic Main Library and a newly landscaped City Park. Significant renovations renewed the Main Library's importance to the community.,"(Architect) William Rawn Associates and Ann Beha Architects
+(Structural Engineer) LeMessurier Consultants, Inc.
+(Mechanical / Electrical Engineer) Vanderweil Engineers
+(Civil Engineer) H.W. Moore Associate, Inc.
+(Landscape Architect) Michael Van Valkenburgh Associates
+(Double Skin Curtainwall) Gartner Steel and Glass
+(Facade Engineer) Arup
+(LEED Consultant) Viridian Energy & Environmental, LLC
+(Interior Designer) WRA, Ann Beha, with Lab [3.2] Architecture
+(Lighting Consultant) Horton Lees Brogden Lighting Design
+(Acoustical Engineer) Acentech
+(Photographer) Robert Benson, Chuck Choi
+Photo © Robert Benson
+",Sites of Learning,
+Ragon Institute,PAYETTE,2024,"The Ragon Institute of Mass General, MIT and Harvard unites researchers at the forefront of eradicating infectious diseases. The new 323,000 GSF home occupies a free-standing triangular site on Main Street in Cambridge, MA between Kendall Square, MIT and the Port neighborhood.","(Architect) PAYETTE
+(Construction Manager) Consigli Construction;
+(Engineer – Civil) Bristol Engineering;
+(Engineer – MEP/FP/IT) Arup;
+(Engineer – Structural)  Arup;
+(Code) Code Red Consultants;
+(Sustainability) The Green Engineer;
+(Envelope) Studio NYL;
+(Cost Estimator) Consigli Construction;
+(Lighting) Arup;
+(Geotechnical) Haley & Aldrich;
+(Vertical Conveyance) VDA;
+(Acoustics/Vibration) Acentech;
+(Energy Modeler) Arup;
+(Food Service Consultant) Colburn Guyette;
+(Audio Visual)  AVH Technology Partners;
+(Parking) Walker Consultants;
+(Wind Dispersion) CPP Wind Engineering Consultants;
+(Landscape) PAYETTE
+(Childcare) StudioMLA
+Photo © Robert Benson
+",Sites of Learning,
+Shelburne Museum Perry Center,Annum Architects with Two Row Architect,2024,"Incorporated in 1947, Shelburne Museum is the largest art and history museum in northern New England and Vermont's foremost public resource for programming in the arts and humanities. The Perry Center for Native American Art will be the newest addition to the 45-acre, 39-building campus.","(Architect) Annum Architects with Collaborating Architect Two Row Architect
+(Landscape Architect) Reed Hilderbrand LLC, (Elizabeth Randall);
+(Structural Engineer) Thornton Tomasetti, (Paul Becker);
+(MEP/FP Engineer) Kohler Ronan, (Chris Vahlsing);
+(Civil Engineer) Civil Engineering Associates, (Chris Galipeau);
+(Specifications) Kalin Associates, (Mark Kalin);
+(Lighting Design) Sladen Feinstein Integrated Lighting, (Reiko Kagawa)
+Image © Annum Architects, Two Row Architect, Reed Hilderbrand
+",Sites of Culture,
+"IBA ""La CASA"" Cultural Center",STUDIO ENÉE with Annum Architects,2025,"The Center for the Arts, Self-Determination, and Activism (The CASA) is the new home for Inquilinos Boricuas en Acción (IBA). The building will host a variety of crucial cultural and community programs across 26,400sf of space, featuring classrooms, galleries, offices, a planted terrace, and a double-height, 235-seat multi-purpose room.","(Prime Architect) STUDIO ENÉE: Natasha Espada AIA, Principal-in-Charge; Jose Arias Soliva AIA, Project Manager; Danniely Staback Rodriguez AIA, Project Architect, Michael Schanbacher, AIA
+(Collaborating Architect) Annum Architects: Ann M Beha FAIA Senior Collaborating Architect; Steven Gerrard AIA, Principal; Rita Terjeki AIA, Project Architect; Emily Kruse Logan, NCIDQ;
+(Client) Inquilinos Boricuas en Acción: Vanessa Calderon-Rosado, Executive Director; Mayra Negron-Roche, Chief Operating Officer; Jason Dulong, Facilities Director; Cecil Andrews, Site Superintendent
+(MEPFP Engineers) Kohler Ronan; (Structural Engineer) Le Messurier; (Civil Engineer) Nitsch Engineering; (Geotechnical Engineer) McPhail Associates LLC; (Code Consulting) Solutions Engineering Inc.; (Acoustical) Acentech; (Lighting) Available Light; (Theater Design) Nextstage Design; (Sustainability) VvS Architects & Consultants; (Cost Estimator) Fennessy Consulting
+(Contractor) D.F. Pray
+Image © Studio ENÉE
+",Sites of Culture,
+Allen Court,OPRCH,2025,"Raiding the City of Worcester's surplus of decommissioned street lights, Allen Court reimagines these traditional lighting components reconfigured as series of wild plant-like creatures. Like a loose collection of unruly seedlings, the lights emerge from the pavement, stretch across the alley, and leaning out to the street.","(Architect) Office of Penn Ruderman Architects (OPRCH)
+Image © the Office of Penn Ruderman Architects
+",Sites of Culture,
+Peddie School Art Center Expansion,ARC/ Architectural Resources Cambridge,2022,"The Peddie School, an independent high school in New Jersey, dreamed of a new performance venue and teaching spaces to celebrate its arts department. The Arts Center Expansion connects to an existing building and encompasses a luminous and acoustically nimble orchestra Room, music practice rooms, a lobby-event space, an airy art studio, and a flexible gallery.","(Architect) ARC/ Architectural Resources Cambridge
+(Code) Howe Engineers, (Jeremy Mason);
+(Construction Manager) V.J. Scozzari & Sons, Inc., (Rich Alito);
+(Civil Engineer) Crest Engineering, (Lorali Totten);
+(Specifications) Wil-Spec, (Robb Wilkinson);
+(Structural) Harrison Hamnet Structural Engineers, (Mark Gaffney);
+(MEP/FP) Kelter & Giligo Consulting Engineers (Gabe Gilligo);
+(Acoustics) Acentech, (Jonah Sacks);
+(Audio Visual) Acentech, (Brian Masiello);
+(Landscaping) Crest Engineering, (Lorali Totten);
+(Lighting) LAM Partners, (Glenn Heinmiller);
+(Theater) Martin Vinik Planning for the Arts, (Martin Vinik)
+Photo © Magda Beirnat
+",Sites of Culture,
+Lumen - Beacon Park,Touloukian Touloukian,2017,"Situated along Grand River Avenue, the Lumen restaurant at Beacon Park welcomes visitors into the center of downtown Detroit. This urban revitalization project and new public space was created to anchor the emerging neighborhood, spur economic development and provide a quality place for the community in the surging and vibrant downtown district.","(Architect) Touloukian Touloukian
+Photo © Anton Grassi Photography
+",Sites of Culture,
+MASS MoCA Building 6,Bruner/Cott Architects,2017,"MASS MoCA's Building 6 is a new museum made from found buildings where the spectacular interiors of existing mill structures become a three-dimensional underpainting for new, impactful contemporary art galleries. Design interventions weave in and out of over one thousand columns, hundreds of windows, and acres of maple factory floor.","(Architect) Bruner/Cott Architects
+(Construction Manager) Gilbane Building Company; 
+(Structural Engineer) Arup;
+(Mechanical, Plumbing/Fire Protection Engineer) Petersen Engineering, Inc.;
+(Electrical Engineer) R.W. Sullivan Engineering;
+(Civil Engineer) Hill Engineers;
+(Code, Fire Protection Consultant) Cosentini Associates;
+(Specifications) Kalin Associates;
+(Environmental) GZA GeoEnvironmental, Inc.;
+(Acoustics) Acentech;
+(Lighting Consultant) Lumen Studio;
+(Lighting Design) Collaborative Lighting;
+(Cost Estimating) Daedalus;
+(Food Service) Colburn Guyette;
+(Experiential Graphics) Over,Under;
+Photo © Michael Moran
+",Sites of Culture,
+Kendall/MIT Gateway,NADAAA with Perkins&Will,2023,"The Kendall/MIT Gateway project created an opportunity for MIT to redefine and reconstruct its eastern entry to campus, while at the same time allowing the MBTA to replace an aging subway headhouse and renovate the concourse below. To maintain the porosity of the urban site, a single civic canopy supported by very thin columns was imagined.","(Architect) NADAAA with Perkins&Will
+(Landscape Architecture) Hargreaves Jones;
+(Structural Engineering) SGH, McNamara Salvia;
+(MEP/FP) AHA Consulting Engineers;
+(Lighting) SoSo Limited, Lam Partners;
+(Code) Jensen Hughes;
+(Civil: Nitsch Engineering;
+(Geotech) McPhail Associates;
+(MIT Graphics) Pentagram;
+(Vertical Circulation) Van Deusen and Assoc (VDA).;
+(Canopy Fabrication and Design Assist) Lyman-Morse;
+(Canopy Composites Engineering) Al Horsmon, Naval Architect;
+(Canopy Finite Element (FE) Analysis and Computational Fluid Dynamics (CFD) Analysis) Doyle CFD;
+(Building Performance (Wind / Snow Analysis)) RWDI;
+(Headhouse Enclosure, Fabrication and Design Assist) Linel and Ipswich Bay Glass;
+(CM)  Turner Construction Company, Greg Pease 
+Photo © John Horner
+",Sites of Culture,
+ICA/Boston Watershed,AW–ARCH,2024,"The ICA/Boston Watershed is a seasonal contemporary art space in a repurposed industrial building in East Boston. Once a copper pipe factory, the 15,000-square-foot structure now offers free admission, dynamic exhibitions, and space for community programs. It expands the museum's reach to new audiences, especially East Boston's migrant-heavy population.","(Architect) AW-ARCH
+(General Contractor) Stack + Co.;
+(Structural Engineer) SGH (Simpson Gumpertz & Heger);
+(MEP Engineer) SED Associates Corp.;
+(Geotechnical Engineer) Haley & Aldrich;
+(Civil Engineer) Samiotes Consultants, Inc.;
+(Code Consultant) Building, Fire & Access, Inc.; 
+(Specification Writer) Paul DiBona Specifications LLC; 
+(Lighting Consultant) Lam Partners;
+Photo © Florian Holzherr
+",Sites of Culture,
+Berklee College of Music,William Rawn Associates,2013,"Fronting on Massachusetts Avenue, this multi-use 370-bed residence hall for Berklee College of Music strengthens the College's multiple connections to the City of Boston. The transparent facade reveals the life of the building while creating an active urban street edge.","(Architect) William Rawn Architects
+(Structural Engineer) LeMessurier Consultants, Inc.
+(Mechanical / Electrical Engineer) Rist-Frost-Shumway Engineering
+(Civil Engineer) Nitsch Engineering
+(Landscape Architect) Landworks Studio, Inc.
+(Interior Designer) Lab [3.2] Architecture
+(Lighting Consultant) Lam Partners, Inc.
+(Acoustical Engineer) Walters-Storyk Design Group
+(AV Consultant) Acentech
+(Photographer) Robert Benson, Bruce T. Martin, Michael D. Spencer, Berklee Instagram @cafshows
+Photo © Robert Campbell
+",Sites of Culture,
+Brooklyn Boulders Somerville,Arrowstreet,2013,"Brooklyn Boulders Somerville envisioned a multifunctional space where fitness, cross-training, yoga, co-working, and large-scale community events like TEDx co-exist. Once an unused warehouse in Somerville's industrial district, this space was thoughtfully reimagined into one of the largest indoor climbing facilities in the Northeast.","(Architect) Arrowstreet;
+(Principal-in-Charge) Arrowstreet, (Sean Selby)
+Photo © Ed Wonsek Artworks Inc. 
+",Sites of Play,
+Urban Grove,Arrowstreet,2024,"Urban Grove provides Boston Seaport destination 'The Lawn on D' with an inviting sanctuary, seamlessly blending art, nature, and social connection. Designed to foster interaction, the installation features Canopy Trees, whose mirrored leaves reflect movement and illuminate at night, and Nests, circular seating that provides flexible gathering spaces.","(Architect) Arrowstreet
+(Director of Experience Design) Arrowstreet, (Lauren Haggerty)
+(Senior Designer) Arrowstreet, (Jenna Carolan)
+(Designer)  Arrowstreet, (Diana Khalifeh)
+(Designer) Arrowstreet, (Jun Ho Han)  
+(Fabricator) Image One/Applied Image (Kyle Wolfe)
+Photo © Ed Wonsek ArtWorks Inc. 
+",Sites of Play,
+Dancing Dragon,Katherine Chin & Parke MacDowell,2024,"Highway construction in the 1960s dismantled a tight-knit community by displacing hundreds of immigrant households along Hudson Street in Boston's Chinatown. Dancing Dragon occupies the small greenspace between these projects to reinforce the cultural identity of Chinatown. Inspired by the spirit of a traditional dragon dance, the undulating canopy resembles the energetic movements of a dragon.","PAYETTE, Beyond Walls, Mayor’s Office of Arts & Culture, Perkins&Will, Utile, Healthy Places by Design, John Hancock, Beyer Blinder Belle Foundation, Boston Global Investors, AARP Massachusetts, UMass Boston, City of Boston Age Strong Commission, John’s Landscape Service, Matt Construction, Concentric Fabrication, BPDA/EDIC, Lawrence Chan, Stantec, Lim Consultants, McPhail Associates, Tufts University, Bozzuto, Maloney Properties, and One Greenway. 
+Many individual volunteers invested their time in community design meetings and work sessions. We’re thankful to them and past and present Hudson Street residents for their contributions to the neighborhood.
+Photo © Lee-Daniel Tran
+",Sites of Play,
+Loose Fit,CO-G,2020,"Somewhere between New England cedar shingles and the loose fit of a favorite pair of jeans, the pavilion speaks to the familiarity and nostalgia of our collective favorite things. 80 puffy shingles are stuffed with recycled denim repurposed to building insulation and fabric waste from the garment industry.","(Designer) CO-G
+Photo © Sam Balukonis
+",Sites of Play,
+Parklet,Wentworth Architecture,2024,"The 'Parklet' AKA Place Activators: DfMA systems for promoting wellness, learning and play for the public good explores design as a tool for spatial activation, focusing on how small-scale, community-driven interventions can transform underutilized urban spaces.","(Designer) Wentworth Institute of Technology, Architecture Program
+(Student team) Alexa Babcock, Zach Barnes, Robyn Barrios, Molly Brody, Jack Cahill, Rose Currie, Krystal Duong, Jayln Hayden, Kaleb Korona, Ryan Mead, Kelsey Moslow, Abbie Thurber, Jonathan Yiu; 
+(Faculty team) Eric Hughes, Rob Trumbour;
+(Collaborators) Daniel Wolf, Senior Planner Public Space Lab City of Cambridge Community Development Department
+Photo © Jack Cahill
+",Sites of Play,
+Take a Seat,Architecture for Public Benefit,2025,"Take a Seat offers a welcoming space for BSA visitors to gather, pause, and belong. It encourages lingering, conversation, and informal exchange. Architecture for Public Benefit's modular blue furniture is arranged along a rotated grid, filling both the nook and the adjacent floor area.","Architect: Architecture for Public Benefit
+Photo © SIGNALS
+",Sites of Play,
+Dinner Cozy,French 2D,2022–,"At the smallest domestic scale, Dinner Cozy makes visible the social and physical negotiations of spatial practice via the dinner table. The many-armed tablecloth plays host to up to 28 guests and insists on an acknowledgement of its presence, while enveloping chairs and providing warmth.","(Architect) French2D (Anda French, Jenny French, Michael Chang, Adrian Corbey, Mindy Ma)
+Photo © French2D
+",Sites of Play,
+SUPA System,Joseph Zeal-Henry with Deborah Garcia,2025,"SUPA System asks what music and sound can tell us about how we occupy spaces of power, and aims to inspire new ways of thinking about communal spaces of gathering. A manifesto made physical, SUPA System cites far ranging influences to imagine how the vernacular of infrastructure could create new ways of living.","(Designer) Joseph Zeal-Henry (Design/Curation, Speaker Box Fabrication) with Deborah Garcia (Co-design);
+ (Sound Design) White Rabbit Audio;
+(Visual Identity) Lauren Harewood, SOAKE;
+(Aluminium Frame Fabrication) Tri-Pyramid 
+Photo © SIGNALS
+",Sites of Play,
+Boston City Hall Plaza,Sasaki,2024,Boston City Hall Plaza renovation project by Sasaki transforming the civic space into a more welcoming and accessible public gathering place.,Sasaki,Sites of Welcome,
